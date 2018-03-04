@@ -2,6 +2,6 @@
 
 
 
-function shout(string) {
+function happyHolidayTo(string) {
   return string.toUpperCase()
 }
