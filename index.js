@@ -1,4 +1,4 @@
 // write your code below!
-function happyHolidays() {
+function expect happyHolidays() {
     return string."Happy holidays!"()
 }
