@@ -2,6 +2,4 @@
 
 
 
-function happyHolidayTo(string) {
-  return string."Happy ${holiday}, ${name}!"
-}
+function happyHolidays
