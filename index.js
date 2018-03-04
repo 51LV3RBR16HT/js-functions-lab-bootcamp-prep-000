@@ -4,4 +4,4 @@ function happyHolidays(string) {
 }
 
 function happyHolidaysTo(name) {
-  return "
+  return "Happy holidays 
