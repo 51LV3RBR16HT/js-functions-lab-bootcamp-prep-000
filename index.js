@@ -3,5 +3,5 @@
 
 
 function happyHolidayTo(string) {
-  return string.toUpperCase()
+  return string."Happy ${holiday}, ${name}!"
 }
